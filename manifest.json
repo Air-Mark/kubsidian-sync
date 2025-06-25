@@ -1,0 +1,8 @@
+{
+  "id": "kubsidian-sync",
+  "name": "Kubsidian Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Synchronizes data from the Kubsidian Federation Server into your vault.",
+  "isDesktopOnly": true
+}
